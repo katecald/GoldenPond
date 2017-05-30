@@ -1,4 +1,3 @@
-//ON GOLDEN POND
 function PondCreator(boundsStr){
   let bounds = boundsStr.split(' ').map(elem => +elem)
   let args = []
